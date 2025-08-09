@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\bin\Debug\AbstractShapeDemo.exe.config
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\bin\Debug\AbstractShapeDemo.exe
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\bin\Debug\AbstractShapeDemo.pdb
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\obj\Debug\AbstractShapeDemo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\obj\Debug\AbstractShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\obj\Debug\AbstractShapeDemo.exe
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\AbstractShapeDemo\obj\Debug\AbstractShapeDemo.pdb
