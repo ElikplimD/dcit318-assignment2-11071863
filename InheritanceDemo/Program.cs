@@ -10,9 +10,9 @@ namespace InheritanceDemo
             Dog dog = new Dog();
             Cat cat = new Cat();
 
-            genericAnimal.MakeSound(); // Output: Some generic sound
-            dog.MakeSound();           // Output: Bark
-            cat.MakeSound();           // Output: Meow
+            genericAnimal.MakeSound(); 
+            dog.MakeSound();
+            cat.MakeSound();
         }
     }
 }
