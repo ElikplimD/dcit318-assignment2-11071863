@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\PC\Desktop\LEVEL 300\Second sem\Dorin\Progrmming 2\dcit318-assignment2-11071863\Interfaces\obj\Debug\Interfaces.pdb
